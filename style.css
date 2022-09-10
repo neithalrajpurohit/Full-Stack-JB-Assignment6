@@ -1,0 +1,198 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+#navbarMonstera {
+    margin-top: 4rem;
+    margin-left: 3rem;
+}
+
+#imgMain {
+    position: absolute;
+    top: 14rem;
+    right: -1rem;
+    width: 38%;
+    /* height: 78%; */
+}
+
+#navEnd {
+    margin-top: -3rem;
+    margin-right: 1rem;
+    display: flex;
+    float: right;
+}
+
+#navEnd div {
+    padding: 10px 30px;
+}
+
+#navMid {
+    display: flex;
+    justify-content: center;
+    font-family: Allerta;
+    float: left;
+    margin-top: -3rem;
+    padding-left: 16rem;
+    font-size: 25px;
+}
+
+#navMid div h4 {
+    padding-right: 5rem;
+}
+
+#monstera {
+    align-items: center;
+    text-align: center;
+    font-family: Allerta;
+    font-size: 7rem;
+    position: absolute;
+    bottom: 25rem;
+    float: left;
+    margin-left: 5rem;
+    font-weight: 1200;
+}
+
+#midWhole1 {
+    align-items: center;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: Allerta;
+}
+
+.text {
+    font-size: 11px;
+    width: 176px;
+    position: relative;
+    top: -4rem;
+    right: -5rem;
+}
+
+.para {
+    position: absolute;
+    top: 24rem;
+    left: 4rem;
+    padding-top: 2rem;
+    font-family: Abel;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+}
+
+.para1 {
+    position: absolute;
+    top: 26rem;
+    left: 4rem;
+    padding-top: 2rem;
+    font-family: Abel;
+    font-size: 1.6rem;
+    padding-left: 1rem;
+
+}
+
+#midWholePart13 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: -7rem;
+    left: 6rem;
+    justify-content: space-between;
+    font-family: Allerta;
+}
+
+.midWholePart13Parts {
+    padding-right: 3rem;
+}
+
+.fee>h3 {
+    position: absolute;
+    left: 6rem;
+    top: 0.6rem
+}
+
+.fee>p {
+    margin-top: 1rem;
+    padding-left: 1rem;
+    margin-right: 3rem;
+    width: 178px;
+    color: gray;
+}
+
+.light>p {
+    width: 178px;
+    color: gray;
+    margin-top: 2rem;
+    margin-left: -1.5rem;
+    margin-right: 3rem;
+}
+
+.light>h3 {
+    position: absolute;
+    left: 21.5rem;
+    top: 0.2rem
+}
+
+.care>h3 {
+    position: absolute;
+    left: 38.5rem;
+    top: 0.2rem
+}
+
+.care>p {
+    width: 185px;
+    color: gray;
+    margin-top: 2rem;
+    margin-left: 0.1rem;
+    margin-right: 3rem;
+}
+
+#midWholePart12 {
+    position: absolute;
+    top: 38rem;
+    left: 7rem;
+    font-family: Allerta;
+    background-color: rgb(52, 120, 52);
+    padding: 15px 80px;
+    border-radius: 2rem;
+    color: white;
+    padding-left: 2rem;
+    font-style: 30px;
+    font-weight: 400;
+}
+
+#midWholePart122>img {
+    /* margin-top: -1rem;
+    margin-left: 11rem; */
+    position: absolute;
+    top: 1.5rem;
+    left: 13rem;
+}
+
+.line {
+
+    background-color: black;
+    position: absolute;
+    top: 5.4rem;
+    left: 18.5rem;
+    width: 65px;
+    height: 2px;
+    margin: 11px;
+}
+
+.li1 {
+    margin-left: 4.1rem;
+    margin-top: 16rem;
+    font-size: 1.7rem;
+}
+
+.li2 {
+    margin-left: 4.2rem;
+    margin-top: -4rem;
+    font-size: 1.7rem;
+}
