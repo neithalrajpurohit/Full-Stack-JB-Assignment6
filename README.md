@@ -5,17 +5,15 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-## Assignment 6 [Live Link]()
+## Assignment 6 [Live Link](https://live-project-06.netlify.app/)
 
--   Skills Gained during this assignment
-    -   Learnt to use absolute & relative  position property .
-    -   Learned to create horizontal line on navbar .
-    -   Used flexbox.
+- Skills Gained during this assignment
+  - Learnt to use absolute & relative position property .
+  - Learned to create horizontal line on navbar .
+  - Used flexbox.
 
 ---
 
 ## Time taken to finish this project
 
--  Took 1 hour to complete.
-
-
+- Took 1 hour to complete.
